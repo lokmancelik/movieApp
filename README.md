@@ -1,2 +1,2 @@
 # movieApp
-Film Uygulaması - Lokman CELİk
+Film Uygulaması - Lokman CELİkd
